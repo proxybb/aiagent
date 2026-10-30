@@ -1,0 +1,3 @@
+Successfully wrote to "lorem.txt" (28 characters written)
+Error: Cannot write to "pkg/morelorem.txt" as it is a directory
+Error: Cannot write to "/tmp/temp.txt" as it is outside the permitted working directory
